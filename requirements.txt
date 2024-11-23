@@ -1,0 +1,8 @@
+Flask
+vosk
+torch
+transformers
+gTTS
+requests
+python-dotenv
+llama3
